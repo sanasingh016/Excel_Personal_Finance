@@ -1,5 +1,5 @@
 # Personal Finance Analysis Using Excel 
-<img align="right" alt="Client Financial Analysis with Excel" width="950" height = "600" src="https://github.com/sanasingh016/Personal_Finance_Analysis/blob/abd6a3d8c9091ee6a7059e2d3a14cf6c86fc3d1b/Final%20Result.png">
+<img align="right" alt="Client Financial Analysis with Excel" width="1000" height = "500" src="https://github.com/sanasingh016/Personal_Finance_Analysis/blob/abd6a3d8c9091ee6a7059e2d3a14cf6c86fc3d1b/Final%20Result.png">
 
 # **Problem Statement**
 
